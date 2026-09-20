@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "flights": [
+    {
+      "carrier": "SG",
+      "flightNumber": "SG-8169",
+      "origin": "BOM",
+      "destination": "BLR",
+      "departureTime": "2026-09-27T16:00:00+05:30",
+      "arrivalTime": "2026-09-27T17:40:00+05:30",
+      "stops": 0,
+      "fareClass": "Spicemax",
+      "baseFare": 3800.0,
+      "taxes": 1100.0,
+      "totalFare": 4900.0
+    }
+  ]
+}

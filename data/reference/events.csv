@@ -1,0 +1,5 @@
+event_id,date_start,date_end,type,region,source,note
+EVT_001,2026-09-25,2026-09-29,festival,DEL,national_calendar,Major festival travel surge across North India (Diwali)
+EVT_002,2026-09-20,2026-09-24,festival,CCU,state_calendar,Peak homecoming travel to Kolkata (Durga Puja)
+EVT_003,2026-09-15,2026-09-17,weather,MAA,imdt_weather,Severe weather & flight disruption alert
+EVT_004,2026-09-26,2026-09-28,holiday,BOM,state_calendar,Ganesh Visarjan Long Weekend

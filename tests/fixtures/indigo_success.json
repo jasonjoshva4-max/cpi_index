@@ -1,0 +1,42 @@
+{
+  "source": "indigo",
+  "status": "success",
+  "flights": [
+    {
+      "carrier": "6E",
+      "flightNumber": "6E-201",
+      "origin": "DEL",
+      "destination": "BOM",
+      "departureTime": "2026-09-27T08:00:00+05:30",
+      "arrivalTime": "2026-09-27T10:15:00+05:30",
+      "stops": 0,
+      "fareClass": "Economy",
+      "isSoldOut": false,
+      "fareDetails": {
+        "baseFare": 4500.0,
+        "taxes": 1200.0,
+        "udf": 250.0,
+        "convenienceFee": 300.0,
+        "totalFare": 6250.0
+      }
+    },
+    {
+      "carrier": "6E",
+      "flightNumber": "6E-512",
+      "origin": "DEL",
+      "destination": "BOM",
+      "departureTime": "2026-09-27T14:30:00+05:30",
+      "arrivalTime": "2026-09-27T16:45:00+05:30",
+      "stops": 0,
+      "fareClass": "Flexi",
+      "isSoldOut": false,
+      "fareDetails": {
+        "baseFare": null,
+        "taxes": null,
+        "udf": null,
+        "convenienceFee": null,
+        "totalFare": 5800.0
+      }
+    }
+  ]
+}

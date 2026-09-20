@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "flights": [
+    {
+      "carrier": "6E",
+      "flightNumber": "6E-454",
+      "origin": "DEL",
+      "destination": "CCU",
+      "depTime": "2026-09-27T18:30:00+05:30",
+      "arrTime": "2026-09-27T20:45:00+05:30",
+      "stops": 0,
+      "class": "Economy",
+      "baseFare": 4200.0,
+      "tax": 1000.0,
+      "price": 5200.0
+    }
+  ]
+}

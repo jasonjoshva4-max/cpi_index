@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "flights": [
+    {
+      "carrier": "QP",
+      "flightNo": "QP-1102",
+      "origin": "DEL",
+      "destination": "BLR",
+      "departureTime": "2026-09-27T11:00:00+05:30",
+      "arrivalTime": "2026-09-27T13:45:00+05:30",
+      "stops": 0,
+      "fareClass": "Saver",
+      "baseFare": 4100.0,
+      "taxes": 900.0,
+      "totalFare": 5000.0
+    }
+  ]
+}

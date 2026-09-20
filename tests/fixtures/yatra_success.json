@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "flights": [
+    {
+      "carrier": "AI",
+      "flightNumber": "AI-505",
+      "origin": "MAA",
+      "destination": "DEL",
+      "depTime": "2026-09-27T06:30:00+05:30",
+      "arrTime": "2026-09-27T09:15:00+05:30",
+      "stops": 0,
+      "class": "Economy",
+      "baseFare": 4900.0,
+      "taxes": 1400.0,
+      "totalFare": 6300.0
+    }
+  ]
+}
